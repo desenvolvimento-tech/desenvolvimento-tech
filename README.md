@@ -1,109 +1,157 @@
 <h1 align="center">Olá 👋, sou Rafael Mendes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Engenharia+de+Software;Construindo+experi%C3%AAncia+com+projetos+reais;Software+%7C+Sistemas+%7C+Produtos+Digitais&center=true&size=20&width=650&duration=3000&pause=1000" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Bancos+de+Dados;Construindo+projetos+e+base+de+engenharia&center=true&size=20&width=680&duration=3000&pause=1000"
+    alt="Apresentação Rafael Mendes"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-6E40C9?style=for-the-badge&logo=codecrafters&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desenvolvimento_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGENHARIA_DE_SOFTWARE-6E40C9?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Engenharia de Software" />
+  <img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Desenvolvimento Web" />
+  <img src="https://img.shields.io/badge/BANCO_DE_DADOS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Banco de Dados" />
 </p>
 
-👨🏻‍💻 Sobre mim
+<hr>
 
-🎓 Estudante de Engenharia de Software.
+<h2>👨🏻‍💻 Sobre mim</h2>
 
-💻 Construindo experiência prática com sistemas web, banco de dados e projetos próprios.
+<ul>
+  <li>🎓 Estudante de <strong>Engenharia de Software</strong>.</li>
+  <li>💻 Construindo experiência prática com <strong>sistemas web, bancos de dados e projetos próprios</strong>.</li>
+  <li>🧩 Interesse em lógica de aplicação, organização de dados, versionamento e manutenção de software.</li>
+  <li>🚀 Interesse de longo prazo em <strong>produtos digitais, tecnologia e empreendedorismo</strong>.</li>
+</ul>
 
-🧩 Interesse em lógica de aplicação, organização de dados, versionamento e manutenção de software.
+<hr>
 
-🚀 Interesse de longo prazo em produtos digitais e negócios de tecnologia.
+<h2>🚀 Projetos em destaque</h2>
 
-🚀 Projeto em destaque
+<table>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Contexto técnico</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📦 <strong>Sistema de Estoque</strong></td>
+      <td>
+        Sistema desenvolvido para organizar materiais e relacioná-los
+        a usuários identificados por registro de efetivo (RE).
+      </td>
+      <td>
+        <code>Sistema Web</code>
+        <code>Banco de Dados</code>
+        <code>Relacionamento de Dados</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Projeto
+<p>
+  <em>O link do projeto será adicionado após a migração e revisão dos repositórios públicos.</em>
+</p>
 
-Descrição
+<hr>
 
-Contexto
+<h2>🛠️ Habilidades</h2>
 
-📦 Sistema de Estoque
+<h4>Linguagens</h4>
 
-Organiza materiais e os relaciona a usuários identificados por registro de efetivo (RE).
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
 
-Sistema Web Banco de Dados
+<h4>Desenvolvimento Web</h4>
 
-🔧 Link do repositório será adicionado após a migração e revisão dos projetos públicos.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-🛠️ Habilidades
+<h4>Banco de Dados</h4>
 
-Linguagens
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
+<h4>Ferramentas & Versionamento</h4>
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
+<h4>Ambiente</h4>
 
-Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
 
+<hr>
 
+<h2>📚 Atualmente</h2>
 
+<table>
+  <thead>
+    <tr>
+      <th>🧠 Estudando</th>
+      <th>💻 Construindo</th>
+      <th>🎯 Direção</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fundamentos de Engenharia de Software</td>
+      <td>Sistemas e projetos práticos</td>
+      <td>Desenvolvimento de produtos digitais</td>
+    </tr>
+    <tr>
+      <td>Banco de dados relacional</td>
+      <td>Portfólio técnico no GitHub</td>
+      <td>Tecnologia e empreendedorismo</td>
+    </tr>
+  </tbody>
+</table>
 
-Banco de Dados
+<hr>
 
-
-
-Ferramentas
-
-
-
-
-
-
-Ambiente
-
-
-
-
-
-📚 Atualmente
-
-Estudando
-
-Construindo
-
-Direção
-
-🧠 Fundamentos de Engenharia de Software
-
-💻 Sistemas e projetos práticos
-
-💡 Produtos digitais
-
-🗄️ Banco de dados relacional
-
-🔧 Portfólio técnico no GitHub
-
-🚀 Tecnologia e empreendedorismo
-
-📱 Contato
+<h2>📱 Contato</h2>
 
 <div align="center">
   <a href="mailto:rafael.mendes14207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
+  &nbsp;
   <a href="https://github.com/desenvolvimento-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </div>
 
 <!--
-LINKEDIN
-Quando tiver seu link definitivo, adicione dentro da seção Contato:
+Quando tiver seu LinkedIn, coloque o botão abaixo dentro da seção Contato:
 
 <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-PORTFÓLIO
-Quando existir um portfólio público, podemos adicionar um botão aqui.
+Quando existir um portfólio público, também podemos adicionar um botão aqui.
 -->
