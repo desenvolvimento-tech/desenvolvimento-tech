@@ -42,37 +42,6 @@
 
 <hr>
 
-<h2>🚀 Projeto em destaque</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-      <th>Contexto técnico</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>📦 <strong>Sistema de Estoque</strong></td>
-      <td>
-        Sistema web desenvolvido para organizar materiais e relacioná-los
-        a usuários identificados por <strong>RE (registro de efetivo)</strong>.
-      </td>
-      <td>
-        <code>Sistema Web</code>
-        <code>Banco de Dados</code>
-        <code>Relacionamento de Dados</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p>
-  <em>O repositório será vinculado aqui após a migração e revisão da documentação dos meus projetos públicos.</em>
-</p>
-
-<hr>
 
 <h2>🛠️ Tecnologias</h2>
 
