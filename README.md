@@ -1,67 +1,130 @@
-Rafael Mendes
+<h1 align="center">Rafael Mendes</h1>
 
-Software Engineering Student
+<h3 align="center">Software Engineering Student</h3>
 
-Software Engineering student focused on building practical systems, strengthening engineering fundamentals, and understanding the product side of technology.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Building+practical+software+projects;Strengthening+engineering+fundamentals;Software%2C+systems+and+product+thinking&center=true&size=18&width=650&duration=3000&pause=1000&color=8B949E"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=for-the-badge&logo=codecrafters&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product_Mindset-0D1117?style=for-the-badge&logo=proton&logoColor=white" />
+</p>
 
 About me
 
-I'm currently studying Software Engineering and building hands-on experience through web systems, database-backed applications, and academic and personal projects.
+🎓 Software Engineering student building a solid foundation in software development.
 
-My focus is not on collecting technologies. I prefer to understand how the pieces of a system work together: application logic, data, development workflow, and the decisions that make software easier to evolve.
+💻 Gaining practical experience through web systems, databases, academic work and personal projects.
 
-Long term, I'm interested in working at the intersection of software engineering, product development, and technology entrepreneurship.
+🧩 Interested in understanding software beyond isolated code: application logic, data modeling, version control and maintainability.
 
-Technical context
+📦 Currently building and improving projects that solve concrete problems.
 
-Area
+🧭 Long-term interest in the intersection of software engineering, product development and technology entrepreneurship.
 
-Experience / tools
-
-Programming
-
-PHP · JavaScript
-
-Web fundamentals
-
-HTML · CSS
-
-Database
-
-MySQL
-
-Tooling
-
-Git · GitHub · npm · VS Code
-
-Environment
-
-Linux / Ubuntu · XAMPP
-
-I use these technologies in different contexts and at different levels of depth. This list reflects my current practical experience, not a claim of specialization in every item.
-
-Selected work
+Selected project
 
 Inventory Management System
 
-A system created to organize materials and associate them with users identified by their personnel registration (RE).
+A web-based system designed to organize materials and associate them with users identified by their RE (registro de efetivo).
 
-The project is part of my practical development experience and gives me a concrete environment to work with application structure, data relationships, and web-based system flows.
+The project is part of my practical development experience and involves concepts such as data organization, user relationships and database-backed application logic.
 
-<!-- After moving the repository to this account, replace the line below with its real URL. -->
+The repository will be linked here after the migration and documentation review of my public projects.
 
-Repository: ADD_REPOSITORY_URL_AFTER_TRANSFER
+Tech stack
 
-Current direction
+Languages
 
-Building and improving web and database-backed systems.
+<p>
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-Strengthening software engineering fundamentals through practical projects.
+Web fundamentals
 
-Improving how I structure code, data, repositories, and development workflows.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
 
-Studying how technical decisions connect with product development and technology businesses.
+Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+Tools & workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
+
+Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=FB7A24" />
+</p>
+
+Current focus
+
+<table>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td>Software design, maintainability and development fundamentals</td>
+  </tr>
+  <tr>
+    <td><strong>Development</strong></td>
+    <td>Web applications and backend-oriented logic</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>Relational databases and data modeling</td>
+  </tr>
+  <tr>
+    <td><strong>Projects</strong></td>
+    <td>Turning academic knowledge into working software</td>
+  </tr>
+  <tr>
+    <td><strong>Long term</strong></td>
+    <td>Building technology products and businesses</td>
+  </tr>
+</table>
 
 Contact
 
-GitHub · Email · LinkedIn: ADD_LINKEDIN_URL · Portfolio: ADD_PORTFOLIO_URL
+<p align="center">
+  <a href="mailto:rafael.mendes14207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/desenvolvimento-tech">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Software Engineering · Development · Products</sub>
+</p>
+
+<!--
+LINKEDIN
+Quando você tiver o link definitivo, adicione este bloco dentro da seção Contact:
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+PORTFOLIO
+Quando existir um portfólio público, podemos adicionar um terceiro botão aqui.
+-->
